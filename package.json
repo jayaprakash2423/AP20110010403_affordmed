@@ -1,0 +1,29 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "Afford medical exam",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayaprakash2423/Afford_medical.git"
+  },
+  "author": "jaya prakash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jayaprakash2423/Afford_medical/issues"
+  },
+  "homepage": "https://github.com/jayaprakash2423/Afford_medical#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3"
+  },
+  "dependencies": {
+    "@mui/icons-material": "^5.14.3",
+    "@mui/material": "^5.14.5",
+    "react-dom": "^18.2.0"
+  }
+}
